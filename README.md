@@ -1,5 +1,5 @@
 # Give automatic ratings
-A neural network which will rate a movie ( out of 5 stars ) based on your given review
+A neural network which will rate a Movie, TV Series, Web Series etc.. ( out of 5 stars ) based on your given review
 
 # How to use
 Simply run `train.py` with argument `--rev` as your review  
