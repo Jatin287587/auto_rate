@@ -6,7 +6,7 @@ Simply run `train.py` with argument `--rev` as your review
 Example: `python train.py --rev "worst movie ever"`  
 
 # Get Data
-`labels.txt`: https://drive.google.com/open?id=1GTlCTYcwDt_PFq3H-VteSDMaVN9PLLAN
+`labels.txt`: https://drive.google.com/open?id=1GTlCTYcwDt_PFq3H-VteSDMaVN9PLLAN  
 `reviews.txt`: https://drive.google.com/open?id=1DWq5M42EwAmO5QZ3IhwkotoOpWmyPXfn
 
 # Side note
